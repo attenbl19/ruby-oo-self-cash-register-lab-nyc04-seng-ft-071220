@@ -6,7 +6,7 @@ class CashRegister
     items = []
   end
   
-  def add_item(title, )
+  def add_item(title, price, )
     
   end
 
