@@ -12,5 +12,5 @@ class CashRegister
     @discount
   end
   
-  def
+  
 end
